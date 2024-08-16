@@ -1,1 +1,1 @@
-this repository is for the ML lab assignments 
+this repository is for ML lab assignments 
